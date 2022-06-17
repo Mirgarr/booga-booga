@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://lkhub.net/s/loader.lua"))()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Mirgarr/tracer-script-roblox/main/tracer")() 
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Mirgarr/noclip-script-roblox/main/Noclip")() 
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Mirgarr/made-by-tubs/main/script")()
